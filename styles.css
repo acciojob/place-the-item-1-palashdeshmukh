@@ -2,6 +2,5 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-	margin:0px;
-	float:right;
+	justify-content: center;
 }
